@@ -7,6 +7,7 @@
 `i3lock-next` is a Python 3 script and C helper program much like [i3lock-fancy](https://github.com/meskarune/i3lock-fancy). i3lock-next aims to be much faster by using [Imlib2](https://docs.enlightenment.org/api/imlib2/html/index.html) rather than ImageMagick, and being written (mostly) in C.
 
 ![screenshot: main](media/screenshot-main.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fowenthewizard%2Fi3lock-next.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fowenthewizard%2Fi3lock-next?ref=badge_shield)
 
 [video: usage](media/video-usage.mkv)
 
@@ -77,3 +78,7 @@ $ i3lock-next
 
 - Lock Icons: Font Awesome by Dave Gandy - http://fortawesome.github.com/Font-Awesome
 - See [THANKS.md](THANKS.md) for more.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fowenthewizard%2Fi3lock-next.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fowenthewizard%2Fi3lock-next?ref=badge_large)
